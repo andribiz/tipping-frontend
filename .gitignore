@@ -1,0 +1,7 @@
+.now
+.env
+.env.local
+.vercel.json
+.vercel
+.next
+node_modules
